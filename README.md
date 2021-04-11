@@ -8,9 +8,9 @@
 
 - ☁️ 15 times Multi-Cloud Certified - **Microsoft Azure Certified Data Scientist, AI Engineer, Data Engineer | Oracle Cloud Certified Solution Architect Professional | Alibaba Cloud Expert**
 
-- 👯 I’m looking to collaborate on [Literature Text Translation & Audio Synthesis](https://github.com/Vivek0712/lit-translate-audio)
+- 🤝 I’m looking to collaborate on [Literature Text Translation & Audio Synthesis](https://github.com/Vivek0712/lit-translate-audio)
 
-- 🤝 Organiser at [Azure Developer Community - Tamil Nadu](https://azdev.konfhub.com)
+- 💼 Organiser at [Azure Developer Community - Tamil Nadu](https://azdev.konfhub.com)
 
 - ✍️ 5+ Research papers (AI, IoT), 📜 1 patent (in evaluation) [https://scholar.google.com/citations?user=PViA7BQAAAAJ&hl=en](https://scholar.google.com/citations?user=PViA7BQAAAAJ&hl=en)
 
