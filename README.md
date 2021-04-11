@@ -1,5 +1,5 @@
-<h1 align="center">👋 In pursuit of interesting code, real-life usecase project, open-source initiatives , You have landed at I am Vivek Raja P S profile</h1>
-<h1 align="center"> Welcome</h1>
+<h1 align="center">👋 Hello, I am Vivek Raja P S</h1>
+
 <h3 align="center">Cloud and AI Researcher, Mentor, Speaker, Blogger and Open-source Contributor</h3>
 
 <p align="left"> <a href="https://twitter.com/vivekraja007" target="blank"><img src="https://img.shields.io/twitter/follow/vivekraja007?logo=twitter&style=for-the-badge" alt="vivekraja007" /></a> </p>
