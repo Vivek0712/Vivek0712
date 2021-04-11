@@ -26,6 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Literature Text Translation & Audio Synthesis using Microsoft Azure Cognitive Services](https://vivekraja98.medium.com/literature-text-translation-audio-synthesis-using-microsoft-azure-cognitive-services-5e35add0c79e?source=rss-ace75bb733bf------2)
+- [Inside AWS DeepRacer Garage: Fine-tuning the performance of your model](https://vivekraja98.medium.com/inside-aws-deepracer-garage-fine-tuning-the-performance-of-your-model-4307075de746?source=rss-ace75bb733bf------2)
+- [Get started with AWS DeepRacer: Create, Train, Race your first model](https://vivekraja98.medium.com/get-started-with-aws-deepracer-create-train-race-your-first-model-7f264d647313?source=rss-ace75bb733bf------2)
+- [Detecting and Visualizing Twitter Sentiment during COVID-19 Pandemic using AWS Comprehend and…](https://vivekraja98.medium.com/detecting-and-visualizing-twitter-sentiment-during-covid-19-pandemic-using-aws-comprehend-and-c641e1549e2b?source=rss-ace75bb733bf------2)
+- [Building End to End COVID-19 Forecast Model using Azure ML](https://vivekraja98.medium.com/building-end-to-end-covid-19-forecast-model-using-azure-ml-16da338864b3?source=rss-ace75bb733bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
