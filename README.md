@@ -20,7 +20,7 @@
 
 - 🗣️ 100+ Technical Talk shows, Podcast, Meetups, Conferences **- AWS User Group, TensorFlow User Group, Google Developer Group, Microsoft Reactor, Women in Data Science, Microsoft Azure User Group, KonfHub Conferences, Techmakers, School of AI, Tamil FOSS Community**
 
-- 📝 I regularly write articles on [https://vivekraja98.medium.com](https://vivekraja98.medium.com)
+- 📝 I regularly write articles on [Medium](https://vivekraja98.medium.com) and [Dev](https://dev.to/vivek0712/)
 
 - ⚡ In my free time, I love to **play guitar 🎸, listen to 80's songs 🤘🏼, play 🏏,🏀,🏊‍♂️, learn new languages (French, Hindi)**
 
