@@ -45,6 +45,16 @@ During my undergraduate, I have held several positions of responsibilities and p
         4. Member and Organiser of Fine Arts Events (Music)
         5. Class Committee Student Representative and Class Representative for CSE-B (2016- till present)
         6. Active mentor and guide for programming competitions and hackathons.
+ 
+- ### Projects and Awards 
+
+        Top 20 Best Project – GoogleAI  ExploreML Mentorship Bootcamp -2020
+        Top 17 Best Project – Google Build of Digital India Bootcamp(Bengaluru) -2020  
+        Winner – DHFL Fintech Hackathon (National Level – 2000 teams) - 2019                                                              
+        Winner – Smart India Hackathon 2019 – Ministry of Railways (National Level – 120 teams)
+        Second Runner Up – MadurAI Hackathon (National Level – 500 teams) -2018
+        Second Runner Up – CII Machine Learning Competition (State Level – 75 teams) – 2018
+        Won 10+ Hackathons and participated over 60+ hackathons and Project Competitions
 
 - ### Extra Courses and Certifications
 
