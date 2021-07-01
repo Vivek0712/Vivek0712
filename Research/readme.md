@@ -16,7 +16,6 @@
  * 2019
     - ### Mr.B.Lakshmanan, Mr.Vivek Raja P S, Mr.Kalathiappan K, “Sales Demand Forecasting using LSTM Network”, 4th International Conference on Artificial Intelligence and Evolutionary Computations in Engineering Systems(ICAIECES),2019
  * 2018 
-   - ### Kalathiappan K., Vivek Raja P. S., Harish Kumar T., Subhash S, Srinath S, AVENGERS -Autonomous Vehicle with Efficient
-      Navigation for Garbage Collection and Eco-Friendly Recycling and Segregation, Proceedings of 8 th PIC 2018, Bhubaneswar,India, January 10-13, 2018.
+   - ### Kalathiappan K., Vivek Raja P. S., Harish Kumar T., Subhash S, Srinath S, AVENGERS -Autonomous Vehicle with Efficient Navigation for Garbage Collection and Eco-Friendly Recycling and Segregation, Proceedings of 8 th PIC 2018, Bhubaneswar,India, January 10-13, 2018.
  * 2017 
     - ### Mr.Vivek Raja P S, Mr.Kalathiappan K, &quot;LED Drones&quot;, Yotta 2K17, National Level Technical Symposium at Velammal College of Engineering and Technology. ( Best paper award)
