@@ -1,3 +1,4 @@
+
 # Blogs
 
 📝 I regularly write tech blogs on [Medium](https://vivekraja98.medium.com) and [Dev](https://dev.to/vivek0712/)
@@ -9,7 +10,9 @@
         - As part of Azure Serverless Series - Fun with Function Apps 
     - ## [Literature Text Translation & Audio Synthesis using Microsoft Azure Cognitive Services](https://vivekraja98.medium.com/literature-text-translation-audio-synthesis-using-microsoft-azure-cognitive-services-5e35add0c79e?source=rss-ace75bb733bf------2)
         - Featured Article in Microsoft Newsletter
-        
+       
+       ![lit](https://user-images.githubusercontent.com/25385071/124182534-999c2080-dad4-11eb-9bb5-4af14c5fd497.png)
+
         - Won Top 20 Blogs as part of Azure Developer Stories 2021
 
 * 2020
