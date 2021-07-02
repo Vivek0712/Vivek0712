@@ -12,6 +12,7 @@
 ## Azure
 ### Organizer of Azure Developer Community - Chennai, Madurai, Coimbatore - Feb 2021 Onwards
 - Details : https://github.com/Vivek0712/azdev-tn
+- 
 ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
 ### Active Speaker & Member - Microsoft Reactor Bangalore Chapter
 ![600_485638136](https://user-images.githubusercontent.com/25385071/124237107-ced85b00-db34-11eb-8cae-ed3d88f0aaf2.jpeg)
