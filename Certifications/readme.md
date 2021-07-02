@@ -1,4 +1,5 @@
 # Certifications
+![118434876-715e8b00-b6fb-11eb-9ce0-38d30470ad93](https://user-images.githubusercontent.com/25385071/124273886-38209400-db5e-11eb-9fdc-0b62b3b6b6d0.png)
 
 ## Nanodegrees:
     Computer Vision – Nvidia DL, Affectiva on Udacity (2020)
