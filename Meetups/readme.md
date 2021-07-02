@@ -66,4 +66,19 @@
 | Google Explore ML                                                                     | Google                      | AI                          | Jan 2020      | Co-organizer             |                                                             |                                                                                                                                            |
 
 
+## 2019 Events, Conferences, Meetups
+
+    Winner – GCP Crash Course by DSC VIT Chapter and Google Cloud (2019)
+    Winner – GCP Champ by Google Cloud and Qwiklabs (2019)
+    Winner – Intel AI Edge Scholarship Winner by Udacity
+    Winner – Microsoft Cloud Summit 2019 – Sept 23-27,2019
+    Top Scorer in Cloud Hero and World Challenge by Google Cloud and Qwiklabs (Sept, Oct -2019)
+    Attended AWSome Day Online Conference by AWS and Intel on Nov 6,2019
+    Attended Creating Intelligence with Data by Pluto7 at Google India, Bengaluru on Sept 18,2019. 
+    Attended Google Cloud Onboard 2019 Webinar by Google Cloud on Sept 5,2019 and Nov 22,2019
+    Attended Microsoft Reactor Meetup At Microsoft India, Chennai on Sept 5, 2019
+    Attended Global AI Nights At Microsoft India, Chennai on Sept 5, 2019
+    Conducted over 30+ Intra and Inter College Hands-on Workshops and Technical Talk Sessions
+
+
 
