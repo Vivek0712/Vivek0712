@@ -10,6 +10,11 @@
 - Second Runner Up – CII Machine Learning Competition (State Level – 75 teams) – 2018
 - Won 10+ Hackathons and participated over 60+ hackathons and Project Competitions
 
+![1551663715486](https://user-images.githubusercontent.com/25385071/124235511-f2020b00-db32-11eb-9934-0d1d9f7cdf22.jpeg)
+![1582437778951](https://user-images.githubusercontent.com/25385071/124235517-f3cbce80-db32-11eb-81a9-0b87b86bb457.jpeg)
+
+
+
 ### Technical Judge at Hackathon:
 
 - Hack With LetsUpgrade by LetsUpGrade - Sept 2020
@@ -22,6 +27,8 @@
 - Winning Techical Mentor for BuildwithAI : Emergence - [RunnerUp](https://www.youtube.com/watch?v=Uvy6iaG0xU8) - Sept 2020
 - Technical Mentor for #DigitalDefence by Hackmakers 
 - ![Hackmakers - Hackmakers #DigitalDefence 2020 Mentor Certificate - 2020-12-10](https://user-images.githubusercontent.com/25385071/124224485-5ae18700-db23-11eb-8778-ee2b38fc9f60.png)
+- ![VivekRaja_PS](https://user-images.githubusercontent.com/25385071/124235584-0a722580-db33-11eb-86df-b47b71934e66.jpg)
+
 
 ### Hackathon Participation & Details:
 
