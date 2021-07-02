@@ -33,4 +33,9 @@
 
 ![1610407029967](https://user-images.githubusercontent.com/25385071/124237414-224aa900-db35-11eb-9192-a9d02cbf5e10.jpeg)
 
+## School of AI - Coimbatore Chapter
+### Active Speaker, Organizer, Mentor & Host
+![600_481586307](https://user-images.githubusercontent.com/25385071/124239242-2081e500-db37-11eb-8f3a-37903507b49a.jpeg)
+
+
 
