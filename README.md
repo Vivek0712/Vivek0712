@@ -36,8 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vivek0712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vivek0712" height="30" width="40" /></a>
-<a href="https://twitter.com/vivekraja007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vivekraja007" height="30" width="40" /></a>![gdg_logo](https://user-images.githubusercontent.com/25385071/118435216-28f39d00-b6fc-11eb-930c-db74c06ddee7.png)
-
+<a href="https://twitter.com/vivekraja007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vivekraja007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivek0712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivek0712" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_raja07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vivek_raja07" height="30" width="40" /></a>
 <a href="https://medium.com/@vivekraja98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vivekraja98" height="30" width="40" /></a>
