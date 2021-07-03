@@ -61,8 +61,10 @@
 
 ![Screenshot 2021-05-17 at 10 34 06 AM](https://user-images.githubusercontent.com/25385071/118434876-715e8b00-b6fb-11eb-9ce0-38d30470ad93.png)
 
+## &#x1f4c8; My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek0712&show_icons=true&locale=en&layout=compact" alt="vivek0712" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek0712&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek0712&show_icons=true&locale=en" alt="vivek0712" /></p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek0712&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
