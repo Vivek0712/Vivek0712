@@ -2,7 +2,7 @@
 
 <h3 align="center">Cloud and AI Researcher, Mentor, Speaker, Blogger and Open-source Contributor</h3>
 
-<p align="left"> <a href="https://twitter.com/vivekraja007" target="blank"><img src="https://img.shields.io/twitter/follow/vivekraja007?logo=twitter&style=for-the-badge" alt="vivekraja007" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vivekraja007" target="blank"><img src="https://img.shields.io/twitter/follow/vivekraja007?label=Follow%20me%20on%20Twitter&logo=twitter&style=social" alt="vivekraja007" /></a> </p>
 
 - 👨‍💻 Data Scientist at [Nexstem | CortexBCI Inc](https://nexstem.ai)
 
