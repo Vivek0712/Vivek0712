@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Detecting and Visualizing Twitter Sentiment during COVID-19 Pandemic using AWS Comprehend and Quicksight](https://dev.to/aws-builders/detecting-and-visualizing-twitter-sentiment-during-covid-19-pandemic-using-aws-comprehend-and-quicksight-2a9p)
 - [Creating COVID19 stats newsletter using Azure Function Apps](https://dev.to/vivek0712/creating-covid19-stats-newsletter-using-azure-function-apps-o72)
 - [Literature Text Translation & Audio Synthesis using Microsoft Azure Cognitive Services](https://vivekraja98.medium.com/literature-text-translation-audio-synthesis-using-microsoft-azure-cognitive-services-5e35add0c79e?source=rss-ace75bb733bf------2)
 - [Inside AWS DeepRacer Garage: Fine-tuning the performance of your model](https://vivekraja98.medium.com/inside-aws-deepracer-garage-fine-tuning-the-performance-of-your-model-4307075de746?source=rss-ace75bb733bf------2)
 - [Get started with AWS DeepRacer: Create, Train, Race your first model](https://vivekraja98.medium.com/get-started-with-aws-deepracer-create-train-race-your-first-model-7f264d647313?source=rss-ace75bb733bf------2)
-- [Detecting and Visualizing Twitter Sentiment during COVID-19 Pandemic using AWS Comprehend and…](https://vivekraja98.medium.com/detecting-and-visualizing-twitter-sentiment-during-covid-19-pandemic-using-aws-comprehend-and-c641e1549e2b?source=rss-ace75bb733bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
