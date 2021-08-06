@@ -1,4 +1,6 @@
 # Certifications
+![Uploading microsoft-certified-azure-developer-associate.1 (1).png…]()
+
 ![118434876-715e8b00-b6fb-11eb-9ce0-38d30470ad93](https://user-images.githubusercontent.com/25385071/124273886-38209400-db5e-11eb-9fdc-0b62b3b6b6d0.png)
 
 ## Nanodegrees:
@@ -6,7 +8,7 @@
     Deep Reinforcement Learning – Nvidia DL, Unity on Udacity (2020)
 ## Professional Certifications:
 ### Microsoft Azure:
-
+    Microsoft Certified Azure Developer Associate (AZ-204) (2021)
     Microsoft Certified Azure Data Scientist Associate (DP-100) (2020)
     Microsoft Certified Azure AI Engineer Associate (AI-100) (2020)
     Microsoft Certified Azure Data Engineer Associate (DP-200 & DP-201) (2020)
