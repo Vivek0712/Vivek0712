@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Machine Learning](https://dev.to/vivek0712/introduction-to-machine-learning-12c9)
 - [Fine-tuning the performance of the DeepRacer model](https://dev.to/aws-builders/fine-tuning-the-performance-of-the-model-4pjo)
 - [Create, Train, Race your first AWS DeepRacer Model](https://dev.to/aws-builders/create-train-race-your-first-aws-deepracer-model-hn6)
 - [Detecting and Visualizing Twitter Sentiment during COVID-19 Pandemic using AWS Comprehend and Quicksight](https://dev.to/aws-builders/detecting-and-visualizing-twitter-sentiment-during-covid-19-pandemic-using-aws-comprehend-and-quicksight-2a9p)
 - [Creating COVID19 stats newsletter using Azure Function Apps](https://dev.to/vivek0712/creating-covid19-stats-newsletter-using-azure-function-apps-o72)
-- [Literature Text Translation & Audio Synthesis using Microsoft Azure Cognitive Services](https://vivekraja98.medium.com/literature-text-translation-audio-synthesis-using-microsoft-azure-cognitive-services-5e35add0c79e?source=rss-ace75bb733bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
