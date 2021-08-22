@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Training Machine Learning models in AzureML](https://dev.to/vivek0712/training-machine-learning-models-in-azureml-118m)
 - [Getting started with Azure Machine Learning](https://dev.to/vivek0712/getting-started-with-azure-machine-learning-48j8)
 - [Introduction to Machine Learning](https://dev.to/vivek0712/introduction-to-machine-learning-12c9)
 - [Fine-tuning the performance of the DeepRacer model](https://dev.to/aws-builders/fine-tuning-the-performance-of-the-model-4pjo)
 - [Create, Train, Race your first AWS DeepRacer Model](https://dev.to/aws-builders/create-train-race-your-first-aws-deepracer-model-hn6)
-- [Detecting and Visualizing Twitter Sentiment during COVID-19 Pandemic using AWS Comprehend and Quicksight](https://dev.to/aws-builders/detecting-and-visualizing-twitter-sentiment-during-covid-19-pandemic-using-aws-comprehend-and-quicksight-2a9p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
