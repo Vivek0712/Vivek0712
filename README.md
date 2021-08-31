@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting Python Packages in Azure DevOps](https://dev.to/vivek0712/hosting-python-packages-in-azure-devops-1foo)
 - [Training Machine Learning models in AzureML](https://dev.to/vivek0712/training-machine-learning-models-in-azureml-118m)
 - [Getting started with Azure Machine Learning](https://dev.to/vivek0712/getting-started-with-azure-machine-learning-48j8)
 - [Introduction to Machine Learning](https://dev.to/vivek0712/introduction-to-machine-learning-12c9)
 - [Fine-tuning the performance of the DeepRacer model](https://dev.to/aws-builders/fine-tuning-the-performance-of-the-model-4pjo)
-- [Create, Train, Race your first AWS DeepRacer Model](https://dev.to/aws-builders/create-train-race-your-first-aws-deepracer-model-hn6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
