@@ -19,6 +19,7 @@
 
 - Hack With LetsUpgrade by LetsUpGrade - Sept 2020
 [certificate_Vivek Raja P S.pdf](https://github.com/Vivek0712/Vivek0712/files/6752204/certificate_Vivek.Raja.P.S.pdf)
+- Resonate by Microsoft Learn Students Ambassadors SRM University, Sept 17-19, 2021
 
 ### Hackathon Mentoring:
 
