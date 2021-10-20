@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How FORMULA 1 insights are powered by AWS](https://dev.to/aws-builders/how-formula-1-insights-are-powered-by-aws-3ndb)
 - [Hosting Python Packages in Azure DevOps](https://dev.to/vivek0712/hosting-python-packages-in-azure-devops-1foo)
 - [Training Machine Learning models in AzureML](https://dev.to/vivek0712/training-machine-learning-models-in-azureml-118m)
 - [Getting started with Azure Machine Learning](https://dev.to/vivek0712/getting-started-with-azure-machine-learning-48j8)
 - [Introduction to Machine Learning](https://dev.to/vivek0712/introduction-to-machine-learning-12c9)
-- [Fine-tuning the performance of the DeepRacer model](https://dev.to/aws-builders/fine-tuning-the-performance-of-the-model-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
