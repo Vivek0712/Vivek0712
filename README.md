@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a deep-tech builder at the intersection of neuroscienc
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/vivekrajaps/)
 - 🌐 [VickyBytes (My Dev Platform)](https://vickybytes.com/)
 - 📽️ [YouTube](https://www.youtube.com/@vivekrajaps)
-- 📧 vivekrajaps [at] gmail [dot] com
+- 📧 vivekraja98 [at] gmail [dot] com
 
 ---
 
